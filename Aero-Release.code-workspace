@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../aerohub"
+		},
+		{
+			"path": "../../../../../xampp/htdocs"
+		}
+	],
+	"settings": {}
+}
